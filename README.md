@@ -1,4 +1,13 @@
-### Hi there 👋
+# profile
+
+SeaotterMS profile.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter910820)](https://github.com/anuraghazra/github-readme-stats)
+
+正在死命掙扎的廢物大學生。
+
+## Twitter:
+[https://twitter.com/seaotterMS](https://twitter.com/seaotterMS)
 
 <!--
 **peter910820/peter910820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
