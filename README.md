@@ -12,9 +12,13 @@
 
 **Certificate**
 MTA Networking Fundamentals
+
 ITS Python
+
 TQC-DK 人工智慧應用與技術 專業級
+
 TQC-OA 雲端技術及網路服務 專業級
+
 工業電子丙級
 
 **Language**
