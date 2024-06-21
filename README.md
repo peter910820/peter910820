@@ -24,11 +24,13 @@ TQC-OA 雲端技術及網路服務 專業級
 ![postgresql](https://img.shields.io/badge/postgresql-033963?logo=postgresql) ![sqlite](https://img.shields.io/badge/sqlite-033963?logo=sqlite&logoColor=003B57) ![mysql](https://img.shields.io/badge/mysql-033963?logo=mysql)
 
 ![markdown](https://img.shields.io/badge/markdown-033963?logo=markdown)
+
 **Framework**
 
 ![flask](https://img.shields.io/badge/flask-033963?logo=flask&logoColor=000000) ![fastapi](https://img.shields.io/badge/fastapi-033963?logo=fastapi) ![express](https://img.shields.io/badge/express-033963?logo=express&logoColor=000000) ![laravel](https://img.shields.io/badge/laravel-033963?logo=laravel)
 
 **Tool**
+
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-033963?logo=visualstudiocode&logoColor=007ACC) ![github](https://img.shields.io/badge/github-033963?logo=github&logoColor=181717) ![git](https://img.shields.io/badge/git-033963?logo=git)
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peter910820&show_icons=true&theme=blueberry)
