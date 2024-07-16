@@ -1,5 +1,7 @@
 # Welcome to SeaotterMS home
 
+![SeaotterMS's github-user-contribution](github-user-contribution.svg)
+
 ---
 
 ![cover](/cover.png)
@@ -13,7 +15,6 @@
 ## My Github trophy🏆
 
 [![SeaotterMS's github profile trophy](https://github-profile-trophy.vercel.app/?username=peter910820&theme=apprentice&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## My contribution graph✨
 
 [![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
