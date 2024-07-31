@@ -37,9 +37,12 @@ TQC-OA 雲端技術及網路服務 專業級
 工業電子丙級
 
 ## **Language**
-[![My Language](https://skillicons.dev/icons?i=python,php,html,css,js,nodejs,ruby,go,cpp,cs,rust,julia)](https://skillicons.dev)
+[![My Language](https://skillicons.dev/icons?i=python,php,html,css,js,nodejs,ruby,go,rust)](https://skillicons.dev)
+
 [![My Language2](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
+
 [![My Language3](https://skillicons.dev/icons?i=md,pug)](https://skillicons.dev)
+
 [![My Language4](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 ## **Framework**
@@ -53,7 +56,3 @@ TQC-OA 雲端技術及網路服務 專業級
 
 [![My Tool](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 [https://twitter.com/seaotterMS](https://twitter.com/seaotterMS)
-
-<img alt="Static Badge" src="https://img.shields.io/badge/youtube-033963?logo=youtube&logoColor=FF0000">
-
-[https://www.youtube.com/channel/UCB4v828kadFN4rK37TdWq3g](https://www.youtube.com/channel/UCB4v828kadFN4rK37TdWq3g)
