@@ -10,14 +10,13 @@
 
 正在死命掙扎的廢物大學生，同時是一個全職(?)galgame玩家。
 
-平時耍廢寫小垃圾，玩Galgame看動畫輕小說玩模型等，坑單很長不說了。
+平時耍廢寫小垃圾，玩Galgame看動畫輕小說等，坑單很長不說了。
 
 ## My Github trophy🏆
 
 [![SeaotterMS's github profile trophy](https://github-profile-trophy.vercel.app/?username=peter910820&theme=apprentice&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 ## My contribution graph✨
-
-[![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peter910820&theme=radical"/>
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=radical" width="50%" align="left"/>
