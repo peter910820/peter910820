@@ -19,8 +19,8 @@
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peter910820&theme=radical"/>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=radical" width="50%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=radical" width="50%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=radical&exclude=HTML" width="50%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=radical&exclude=HTML" width="50%"/>
 </div>
 
 ## **Certificate**📜
