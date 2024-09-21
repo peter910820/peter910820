@@ -4,14 +4,13 @@
 
 ---
 
-![cover](/cover.png)
+<img src= "https://media1.tenor.com/m/l6WkdYrJh7gAAAAd/anna-yanami.gif"/>
 
 ---
 
 正在死命掙扎的廢物大學生，同時是一個全職(?)galgame玩家。
 
 平時耍廢寫小垃圾，玩Galgame看動畫輕小說等，坑單很長不說了。
-
 ## My Github trophy🏆
 
 [![SeaotterMS's github profile trophy](https://github-profile-trophy.vercel.app/?username=peter910820&theme=apprentice&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -56,5 +55,4 @@ TQC-OA 雲端技術及網路服務 專業級
 
 ## Twitter:
 
-[![My Tool](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-[https://twitter.com/seaotterMS](https://twitter.com/seaotterMS)
+[![My Tool](https://skillicons.dev/icons?i=twitter)](https://twitter.com/seaotterMS)
