@@ -16,11 +16,10 @@
 [![SeaotterMS's github profile trophy](https://github-profile-trophy.vercel.app/?username=peter910820&theme=apprentice&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 ## My contribution graph✨
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peter910820&theme=radical"/>
-
+<br>
 <div align="center">
     <div style="display: flex; justify-content: center;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=radical&exclude=HTML"  width="50%"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=radical&exclude=HTML" width="50%"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=radical&exclude=HTML"  width="50%"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=radical&exclude=HTML" width="50%"/>
     </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=radical"/>
 </div>
