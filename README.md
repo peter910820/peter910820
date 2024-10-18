@@ -27,8 +27,7 @@
 
 ## My contribution graph✨
 <div align=center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=dracula&exclude=HTML"  width="50%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=dracula&exclude=HTML"  width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=dracula"/>
 </div>
 
