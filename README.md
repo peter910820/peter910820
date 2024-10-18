@@ -8,7 +8,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align=center">
   <img src= "https://media1.tenor.com/m/7wMbp90mY24AAAAC/sealyx-makeine.gif"/>
 </div>
 
@@ -21,17 +21,14 @@
 主要語言是Python, javscript, golang。平時喜歡碰一些怪語言像是elixir~
 
 ## My Github trophy🏆
-<div style="text-align: center;">
-  <img src= "https://github-profile-trophy.vercel.app/?username=peter910820&theme=juicyfresh&column=5"/>
+<div align=center">
+  <img src="https://github-profile-trophy.vercel.app/?username=peter910820&theme=juicyfresh&column=5"/>
 </div>
 
 ## My contribution graph✨
-<div style="text-align: center;">
-  <div style="display: flex; justify-content: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=dracula&exclude=HTML"  width="50%"/>
-    &nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/>
-  </div>
+<div align=center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=dracula&exclude=HTML"  width="50%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=dracula"/>
 </div>
 
