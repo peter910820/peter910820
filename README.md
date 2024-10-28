@@ -20,10 +20,14 @@
 
 主要語言是Python, javscript, golang。平時喜歡碰一些怪語言像是elixir~
 
+還在當兵，一當完即失業(X)
+
 ## My Github trophy🏆
 <div align=center">
   <img src="https://github-profile-trophy.vercel.app/?username=peter910820&theme=juicyfresh&column=5"/>
 </div>
+
+![peter910820 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=peter910820)
 
 ## My contribution graph✨
 <div align=center">
