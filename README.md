@@ -22,21 +22,20 @@
 
 還在當兵，一當完即失業(X)
 
-## My Github trophy🏆
+## 🏆 My Github trophy
 <div align=center">
   <img src="https://github-profile-trophy.vercel.app/?username=peter910820&theme=juicyfresh&column=5"/>
 </div>
 
 ![peter910820 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=peter910820)
 
-## My contribution graph✨
+## ✨ My contribution graph
 <div align=center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=dracula&exclude=HTML"  width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=dracula" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=dracula" width="50%"/>
   <img src="https://raw.githubusercontent.com/peter910820/github-profile-card/refs/heads/main/chart/peter910820_profile.svg"/>
 </div>
 
-## **Certificate**📜
+## 📜 Certificate
 
 MTA Networking Fundamentals
 
@@ -48,7 +47,8 @@ TQC-OA 雲端技術及網路服務 專業級
 
 工業電子丙級
 
-## **Techonology**
+## 🛠️ I use
+## 🖥️ Techonology
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
