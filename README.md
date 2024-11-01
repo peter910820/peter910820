@@ -14,14 +14,16 @@
 
 ---
 
-剛畢業的廢物大學生，同時是一個全職(?)galgame玩家。
-
-興趣是寫小垃圾，玩Galgame看動畫輕小說等，坑單很長歡迎認識。
-
-主要語言是Python, javscript, golang。平時喜歡碰一些怪語言像是elixir~
-
-還在當兵，一當完即失業(X)
-## find me 
+剛畢業的廢物大學生，同時是一個全職(?)galgame玩家。 
+A college student who just graduated, and is also a full-time (?) galgame player. 
+興趣是寫小垃圾(X), 玩Galgame看動畫輕小說等, 坑單很長歡迎認識。 
+My hobbies are writing useless things(X), playing Galgame, watch animate and read novels. The list is so long and welcome to meet. 
+主要語言是Python, 甚麼東西都摸一點的怪咖。目前還沒找到方向。 
+The main language is Python, a geek who knows a little bit about everything. Haven't found the direction yet. 
+還在當兵，一當完即失業(X) 
+## $ now i learn 
+[![Learning](https://skillicons.dev/icons?i=py,discord,bots,django&theme=light)](https://skillicons.dev) 
+## $ find me 
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/seaotterMS) 
 ## 🏆 My Github trophy
 <div align=center">
@@ -33,7 +35,7 @@
 ## ✨ My contribution graph
 <div align=center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=dracula&exclude=HTML" width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=dracula" width="50%"/>
-  <img src="https://raw.githubusercontent.com/peter910820/github-profile-card/refs/heads/main/chart/peter910820_profile.svg"/>
+  <img src="https://raw.githubusercontent.com/peter910820/github-profile-card/refs/heads/main/chart/peter910820_profile.svg" width="50%" height="50%"/>
 </div>
 
 ## 📜 Certificate
