@@ -15,12 +15,19 @@
 ---
 
 剛畢業的廢物大學生，同時是一個全職(?)galgame玩家。 
+
 A college student who just graduated, and is also a full-time (?) galgame player. 
+
 興趣是寫小垃圾(X), 玩Galgame看動畫輕小說等, 坑單很長歡迎認識。 
+
 My hobbies are writing useless things(X), playing Galgame, watch animate and read novels. The list is so long and welcome to meet. 
+
 主要語言是Python, 甚麼東西都摸一點的怪咖。目前還沒找到方向。 
+
 The main language is Python, a geek who knows a little bit about everything. Haven't found the direction yet. 
+
 還在當兵，一當完即失業(X) 
+
 ## $ now i learn 
 [![Learning](https://skillicons.dev/icons?i=py,discord,bots,django&theme=light)](https://skillicons.dev) 
 ## $ find me 
