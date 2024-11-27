@@ -2,7 +2,7 @@
 ![SeaotterMS's github-user-contribution](github-user-contribution.svg) 
 ## :snowflake: introduce 
 <div align=center">
-  <img src="https://dday-widget.minung.dev/widget?text=Retirement%20%E2%8F%B0&date=2024-12-19&startDate=2024-08-20&theme=theme2" width="50%"/><img src="https://dday-widget.minung.dev/widget?text=Find%20Work%20%F0%9F%96%A5%EF%B8%8F&date=2025-03-01&startDate=2024-12-20&theme=theme2" width="50%"/>
+  <img src="https://dday-widget.minung.dev/widget?text=Retirement&date=2024-12-19&startDate=2024-08-20&theme=theme2" width="50%"/><img src="https://dday-widget.minung.dev/widget?text=Find%20Job&date=2025-01-30&startDate=2024-12-20&theme=theme2" width="50%"/>
 </div> 
 
 ```
