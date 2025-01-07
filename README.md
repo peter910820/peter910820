@@ -1,9 +1,9 @@
 # :mega: Welcome to SeaotterMS home :mega:
 ![SeaotterMS's github-user-contribution](github-user-contribution.svg) 
 ## :snowflake: introduce 
-<div align=center">
+<!-- <div align=center">
   <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%8E%87&date=2025-01-01&startDate=2024-12-20&theme=theme2" width="50%"/><img src="https://dday-widget.minung.dev/widget?text=Find%20Job&date=2025-01-30&startDate=2024-12-20&theme=theme2" width="50%"/>
-</div> 
+</div>  -->
 
 ```
 $ 剛畢業的廢物大學生，同時是一個全職(?)galgame玩家。
