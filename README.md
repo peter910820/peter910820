@@ -15,15 +15,16 @@ $ My hobbies are writing useless things(X)or develop bots, playing Galgame, watc
 $ 主要語言是Python、 Golang, 甚麼東西都摸一點的人。對甚麼都有興趣，希望能成為善於解決問題的工程師。
 $ The main language is Python, a geek who knows a little bit about everything. I am interested in everything and hope to become an engineer who is good at solving problems.
 
-$ 正在工作中
+$ ColaTour工程師
+$ Working at ColaTour
 ``` 
 ## :star2: Techonology 
 [![Learning](https://skillicons.dev/icons?i=py,go,nodejs,js,html,css,vue,bootstrap,pug,yarn,express,flask,fastapi,qt,bots,sqlite,debian,vim,git,md,obsidian,notion&theme=light)](https://skillicons.dev) 
 ## :microscope: Now i learning 
 [![Learning](https://skillicons.dev/icons?i=go,discord,bots&theme=light)](https://skillicons.dev) 
 ## :bar_chart: activity graph/cards 
-[![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&bg_color=1d161a&color=be4bb6&line=4c9e9d&point=eb7070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-<div align=center">
+[![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=zenburn&exclude=HTML" width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=zenburn" width="50%"/>
 </div>
 
