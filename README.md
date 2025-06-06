@@ -19,9 +19,9 @@ $ 主要語言是Python、 Golang, 甚麼東西都摸一點的人。對甚麼都
 $ The main language is Python, a geek who knows a little bit about everything. I am interested in everything and hope to become an engineer who is good at solving problems.
 ``` 
 ## :star2: Techonology 
-[![Learning](https://skillicons.dev/icons?i=py,go,nodejs,js,html,css,vue,bootstrap,pug,yarn,express,flask,fastapi,qt,bots,sqlite,debian,vim,git,md,obsidian,notion&theme=light)](https://skillicons.dev) 
+[![Learning](https://skillicons.dev/icons?i=py,go,cs,nodejs,vue,ts,js,html,css,bootstrap,pug,yarn,express,flask,fastapi,qt,bots,postgresql,sqlite,debian,vim,git,md,obsidian,notion&theme=light)](https://skillicons.dev) 
 ## :microscope: Now i learning 
-[![Learning](https://skillicons.dev/icons?i=go,discord,bots&theme=light)](https://skillicons.dev) 
+[![Learning](https://skillicons.dev/icons?i=go,vue,ts&theme=light)](https://skillicons.dev) 
 ## :bar_chart: activity graph/cards 
 [![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <div align="center">
