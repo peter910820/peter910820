@@ -42,14 +42,6 @@ Maybe a few days
 
 </details>
 
-## :microscope: Other Techonology
-
-[![Learning](https://skillicons.dev/icons?i=ae,androidstudio,apple,arduino,babel,bitbucket,bootstrap,cloudflare,css,debian,discord,bots,discordjs,dotnet,eclipse,electron,express,fastapi,firebase,flask,flutter,git,github,gitlab,gmail,heroku,html,instagram,laravel,linux,md,misskey,nginx,nodejs,notion,npm,nuxtjs,obsidian,p5js,pinia,postgres,pr,pug,qt,regex,replit,sqlite,stackoverflow,twitter,ubuntu,vim,visualstudio,vite,vscode,vue,webpack,windows,wordpress,yarn&theme=light)](https://skillicons.dev)
-
-## :bookmark_tabs: Now i learning
-
-[![Learning](https://skillicons.dev/icons?i=go,vue,ts,nuxt,elixir&theme=light)](https://skillicons.dev)
-
 ## :bar_chart: activity graph/cards
 
 [![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&theme=cobalt)](https://github.com/ashutosh00710/github-readme-activity-graph)
