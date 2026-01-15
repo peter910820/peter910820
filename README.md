@@ -1,8 +1,8 @@
 # :mega: Welcome to SeaotterMS home :mega:
 
-![SeaotterMS's github-user-contribution](github-user-contribution.svg)
-
 ![yozorabanner](./yozorabanner_1500x500_00b.jpg)
+
+![SeaotterMS's github-user-contribution](github-user-contribution.svg)
 
 ## :star2: My Language
 
