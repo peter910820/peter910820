@@ -1,6 +1,6 @@
 # :mega: Welcome to SeaotterMS home :mega:
 
-![yozorabanner](./banner.jpg)
+![banner](./banner.jpg)
 
 ![SeaotterMS's github-user-contribution](github-user-contribution.svg)
 
@@ -9,7 +9,8 @@
 
 [![SeaotterMS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=peter910820&theme=cobalt)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter910820&layout=pie&langs_count=10&theme=cobalt" width="50%"/>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter910820&layout=compact&langs_count=16&theme=cobalt" />
 </div>
 
 <!-- <div align="center">
