@@ -7,8 +7,9 @@
 
 ## :bar_chart: activity graph/cards
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peter910820&theme=aura&animation=fade)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peter910820&theme=aura&animation=fade">
+</div>
 
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=aura&animation=fade" width="45%">
