@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peter910820&theme=jolly" width="50%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peter910820&theme=jolly" width="50%"/>
+  <img src="https://raw.githubusercontent.com/peter910820/peter910820/main/profile-summary-card-output/aura/1-repos-per-language.svg" width="50%"/><img src="https://raw.githubusercontent.com/peter910820/peter910820/main/profile-summary-card-output/aura/2-most-commit-language.svg" width="50%"/>
 </div>
 
 <!-- <img src="https://raw.githubusercontent.com/peter910820/github-profile-card/refs/heads/main/chart/peter910820_profile.svg" width="50%" height="50%"/> -->
