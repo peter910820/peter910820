@@ -8,12 +8,12 @@
 ## :bar_chart: activity graph/cards
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peter910820&theme=aura&animation=fade">
+  <img src="https://raw.githubusercontent.com/peter910820/peter910820/main/profile-summary-card-output/aura/0-profile-details.svg">
 </div>
 
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peter910820&theme=aura&animation=fade" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peter910820&theme=aura&animation=fade&utcOffset=0" width="45%">
+ <img src="https://raw.githubusercontent.com/peter910820/peter910820/main/profile-summary-card-output/aura/3-stats.svg" width="45%">
+  <img src="https://raw.githubusercontent.com/peter910820/peter910820/main/profile-summary-card-output/aura/4-productive-time.svg" width="45%">
 </div>
 
 <div align="center">
