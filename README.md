@@ -1,6 +1,6 @@
 # :mega: Welcome to SeaotterMS home :mega:
 
-![banner](./banner.jpg)
+![banner](https://cdn.seaotterms.net/img-cdn/ayumu01.png)
 
 ![SeaotterMS's github-user-contribution](github-user-contribution.svg)
 
